@@ -7,5 +7,6 @@ class Player extends BaseClass {
   display() {
     
     super.display();
+    
   }
 }
